@@ -1,2 +1,2 @@
-# EXO10-
-Groupe1
+# EXO 10
+Groupe 1
